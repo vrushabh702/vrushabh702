@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Vrushabh Patil</h1>
 <h3 align="center">A passionate frontend developer from Surat</h3>
 
-- 🔭 I’m currently working on **angular and node js**
+- 🔭 I’m currently working on **Next Js and Node Js**
 
 - 🌱 I’m currently learning **Aws & Devops Engieeering**
 
-- 💬 Ask me about **Completed My Master in Computer Application done multiple project on php as backend with mysql and frontend framework like angular and react additionally I had Done GLobal certification in Redhat Certified System Admin(RHCSA) and upgrading my Skill in Aws & Devops Engineering**
+- 💬 Ask me about **Completed My Master in Computer Application done multiple project on nodejs/nextjs as backend with mysql and frontend framework like nextjs and reactjs additionally I had Done GLobal certification in Redhat Certified System Admin(RHCSA) and upgrading my Skill in Aws & Devops Engineering**
 
 - 📫 How to reach me **Vrushab199@gmail.com**
+-  **https://www.linkedin.com/in/vrushabh-patil-5ab21b2bb/**
 
-- 📄 Know about my experiences [I have 1 year of experience as full stack developer in angular and php with database of mysql](I have 1 year of experience as full stack developer in angular and php with database of mysql)
+- 📄 Know about my experiences [I have 1.9 year of experience as full stack developer in Next Js React Js as frontend developer and nodejs with database of mysql as backend devleoper]
 
 - ⚡ Fun fact **Debugging is the art of finding a needle in a haystack when you don't know what the needle looks like.**
 
