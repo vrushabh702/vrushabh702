@@ -7,8 +7,7 @@
 
 - 💬 Ask me about **Completed My Master in Computer Application done multiple project on nodejs/nextjs as backend with mysql and frontend framework like nextjs and reactjs additionally I had Done GLobal certification in Redhat Certified System Admin(RHCSA) and upgrading my Skill in Aws & Devops Engineering**
 
-- 📫 How to reach me **Vrushab199@gmail.com**
--  **https://www.linkedin.com/in/vrushabh-patil-5ab21b2bb/**
+- 📫 How to reach me by mail **Vrushab199@gmail.com** or by linkedIn **https://www.linkedin.com/in/vrushabh-patil-5ab21b2bb/**
 
 - 📄 Know about my experiences [I have 1.9 year of experience as full stack developer in Next Js React Js as frontend developer and nodejs with database of mysql as backend devleoper]
 
